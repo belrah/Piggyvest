@@ -14,11 +14,11 @@ html {
    flex-direction: column;
 }
 body {
-   background-image:    url('./bg1.png'),
-                        url('./bg2.png'),
-                        url('./bg3.png'),
-                        url('./bg4.png'),
-                        url('./bg0.png');
+   background-image:    url('./O.jpg'),
+                        url('./J.jpg'),
+                        url('./L.jpg'),
+                        url('./T.jpg'),
+                        url('./color.jpeg');
    background-color: #ADD8E6;
    background-size: 15%, 15%, 15%, 15%, 100%;
    background-position:    left -1% top -15%,
